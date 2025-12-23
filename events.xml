@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss version="2.0">
+  <channel>
+    <title>Carolina Theatre of Durham Events</title>
+    <link>https://carolinatheatre.org/events/</link>
+    <description>Events and performances at Carolina Theatre of Durham</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Dec 2025 17:35:55 -0500</lastBuildDate>
+    <item>
+      <title>Swan Lake (2026-04-30)</title>
+      <link>https://carolinatheatre.org/world-ballet-company-swan-lake-durham/</link>
+      <description>Category: Dance | 7:00pm | Fletcher Hall</description>
+      <pubDate>Tue, 23 Dec 2025 17:35:55 -0500</pubDate>
+      <guid isPermaLink="true">https://carolinatheatre.org/world-ballet-company-swan-lake-durham/</guid>
+      <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2025/10/26_WBC_Swan-Lake_1440x810-500x280.jpg"/>
+    </item>
+  </channel>
+</rss>
