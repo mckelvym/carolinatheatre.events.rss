@@ -5,7 +5,7 @@
     <link>https://carolinatheatre.org/events/</link>
     <description>Events and performances at Carolina Theatre of Durham</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 23:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:15:05 GMT</lastBuildDate>
     <item>
       <title>Swan Lake (2027-04-23)</title>
       <link>https://carolinatheatre.org/swan-lake-2027/</link>
@@ -401,15 +401,6 @@
       <guid isPermaLink="true">https://carolinatheatre.org/kenny-wayne-shepherd-band/</guid>
       <ev:startdate>2026-10-07</ev:startdate>
       <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/03/KWS-CTD-1440x810-1-500x280.jpg"/>
-    </item>
-    <item>
-      <title>Fred Armisen: Comedy for Musicians But Everyone is Welcome (2026-10-06)</title>
-      <link>https://carolinatheatre.org/fred-armisen/</link>
-      <description><![CDATA[Category: Comedy | 7:00pm | Fletcher Hall]]></description>
-      <pubDate>Mon, 5 Oct 2026 10:15:06 GMT</pubDate>
-      <guid isPermaLink="true">https://carolinatheatre.org/fred-armisen/</guid>
-      <ev:startdate>2026-10-06</ev:startdate>
-      <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/04/FredArmisen_CTD_WebsiteHeader_1440x810-500x280.png"/>
     </item>
   </channel>
 </rss>
