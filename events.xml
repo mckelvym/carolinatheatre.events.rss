@@ -5,7 +5,7 @@
     <link>https://carolinatheatre.org/events/</link>
     <description>Events and performances at Carolina Theatre of Durham</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 23:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:15:06 GMT</lastBuildDate>
     <item>
       <title>Swan Lake (2027-04-23)</title>
       <link>https://carolinatheatre.org/swan-lake-2027/</link>
@@ -392,15 +392,6 @@
       <guid isPermaLink="true">https://carolinatheatre.org/everything-happens-live-with-kate-bowler-26/</guid>
       <ev:startdate>2026-10-12</ev:startdate>
       <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/07/26_KateBowler_1440x810-500x280.png"/>
-    </item>
-    <item>
-      <title>Kenny Wayne Shepherd Band (2026-10-07)</title>
-      <link>https://carolinatheatre.org/kenny-wayne-shepherd-band/</link>
-      <description><![CDATA[Category: Music | 8:00pm | Fletcher Hall]]></description>
-      <pubDate>Mon, 5 Oct 2026 10:15:06 GMT</pubDate>
-      <guid isPermaLink="true">https://carolinatheatre.org/kenny-wayne-shepherd-band/</guid>
-      <ev:startdate>2026-10-07</ev:startdate>
-      <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/03/KWS-CTD-1440x810-1-500x280.jpg"/>
     </item>
   </channel>
 </rss>
