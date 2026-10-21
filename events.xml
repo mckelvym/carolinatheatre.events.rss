@@ -5,7 +5,7 @@
     <link>https://carolinatheatre.org/events/</link>
     <description>Events and performances at Carolina Theatre of Durham</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 23:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:15:07 GMT</lastBuildDate>
     <item>
       <title>NOW CLAP! BOB THE DRAG QUEEN IS ON TOUR (2027-03-26)</title>
       <link>https://carolinatheatre.org/bob-the-drag-queen/</link>
@@ -410,15 +410,6 @@
       <guid isPermaLink="true">https://carolinatheatre.org/postmodernjukebox/</guid>
       <ev:startdate>2026-10-15</ev:startdate>
       <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/05/PostModernJukebox_CTD_WebsiteHeader_1440x810-500x280.png"/>
-    </item>
-    <item>
-      <title>Trombone Shorty &amp; Orleans Avenue (2026-10-13)</title>
-      <link>https://carolinatheatre.org/trombone-shorty-orleans-avenue-26/</link>
-      <description><![CDATA[Category: Music | 8:00pm | Fletcher Hall]]></description>
-      <pubDate>Mon, 5 Oct 2026 10:15:06 GMT</pubDate>
-      <guid isPermaLink="true">https://carolinatheatre.org/trombone-shorty-orleans-avenue-26/</guid>
-      <ev:startdate>2026-10-13</ev:startdate>
-      <enclosure type="image/jpeg" url="https://carolinatheatre.org/wp-content/uploads/2026/07/TromboneShorty_CTD_WebsiteHeader_1440x810-1-500x280.png"/>
     </item>
   </channel>
 </rss>
